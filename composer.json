@@ -1,0 +1,16 @@
+{
+    "name": "shukaljasmin/blog",
+    "description": "this pakage contain blog and thire detail",
+    "type":"library",   
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jasmin shukal",
+            "email": "mr.jasmin.shukal@gmail.com"
+        }
+    ],
+
+    "minimum-stability": "dev",
+    "require": {}
+
+}
